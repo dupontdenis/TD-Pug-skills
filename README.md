@@ -4,4 +4,4 @@
  node app.js
 ```
 
-open index.htlm with openlive Server
+open index file with openlive Server
